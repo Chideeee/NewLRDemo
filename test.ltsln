@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0-trunk
+Project("265933DD-50F5-4211-983C-B5E60F4660BC") = "testrun", "testrun.usr", "265933DD-50F5-4211-983C-B5E60F4660BC"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXEVsZGVyXERlc2t0b3BcdGVzdHJ1blx0ZXN0cnVuLnVzcjwvTG9hZERhdGE+DQogIDxGaWxlcz4NCiAgICA8RmlsZT50ZXN0cnVuLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjAtMDgtMDRUMjA6MzY6NDIuNzY1NTIyNSswMTowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+AAAAAAAAAAAAAAAAAAAAAA__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		265933DD-50F5-4211-983C-B5E60F4660BC.Debug|Any CPU.Build.0 = Debug|Any CPU
+		265933DD-50F5-4211-983C-B5E60F4660BC.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		265933DD-50F5-4211-983C-B5E60F4660BC.Release|Any CPU.Build.0 = Release|Any CPU
+		265933DD-50F5-4211-983C-B5E60F4660BC.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
